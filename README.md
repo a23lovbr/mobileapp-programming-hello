@@ -1,9 +1,17 @@
 
 # Rapport
+Vi skulle i denna uppgift ändra texten i appen till något trevligt.
+Jag fick åtkomst till koden genom att hitta values, sedan strings i main.
+Här ändrade jag i följade kod för att ändra meddelandet från Hello till text som visas i bilden : 
 
-**Skriv din rapport här!**
 
-_Du kan ta bort all text som finns sedan tidigare_.
+```
+<resources>
+    <string name="app_name">Här ändrade jag texten</string>
+</resources>
+```
+
+![Rapport Bild.png](Rapport%20Bild.png)
 
 ## Följande grundsyn gäller dugga-svar:
 
